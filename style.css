@@ -1,0 +1,27 @@
+a{
+    background-color: white;
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 10px;
+    color: black; 
+}
+
+nav{
+    text-align: center;
+}
+main{
+    background-color: cornflowerblue;
+}
+body{
+    background-color: black;
+    font-family: unset;
+}
+header{
+    background-color: aqua;
+}
+footer{
+    background-color: aqua;
+}
+h3{
+    text-align: center;
+}
